@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779764653918",
+    "firebase_url": "https://databaseapp-eb87f.firebaseio.com",
+    "project_id": "databaseapp-eb87f",
+    "storage_bucket": "databaseapp-eb87f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779764653918:android:1727a457d237483b",
+        "android_client_info": {
+          "package_name": "com.alpheaus.databaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779764653918-61sl2ql3i0jnk7oapkq6rbrorhrceidd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpheaus.databaseapp",
+            "certificate_hash": "d5583314f4b44f38a52fd7314ab0604020d646ef"
+          }
+        },
+        {
+          "client_id": "779764653918-e4u1m8te2ro971ctl085js9s6p8ppksp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQr7S9wNZrg-U2stYhZGtnwxjfbl549YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779764653918-e4u1m8te2ro971ctl085js9s6p8ppksp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
